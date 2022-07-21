@@ -1,0 +1,6 @@
+---
+- name: Excercise udacity
+  hosts: localhost
+
+  roles:
+   - print
